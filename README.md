@@ -15,6 +15,10 @@ conda create -p venv python==3.7 -y
 
 ```
 
+For checking our json and postman works or not paste code on [here](https://jsonlint.com/)
+
+
+
 
 
 
