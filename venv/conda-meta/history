@@ -10,3 +10,8 @@
 +conda-forge/win-64::vc-14.2-hb210afc_7
 +conda-forge/win-64::vs2015_runtime-14.29.30139-h890b9b1_7
 # update specs: ['python==3.7']
+==> 2022-09-26 20:16:35 <==
+# cmd: C:\Users\Hp\anaconda3\Scripts\conda-script.py install -c conda-forge pickle5
+# conda version: 4.13.0
++conda-forge/win-64::pickle5-0.0.12-py37hcc03f2d_0
+# update specs: ['pickle5']
