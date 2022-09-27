@@ -1,3 +1,4 @@
+import json
 import pickle
 from flask import Flask, request,app,jsonify, url_for, render_template
 import numpy as np
@@ -35,3 +36,4 @@ def predict():
 if __name__ == "__main__":
     app.run(debug=True)
 
+#with heroku use Gunicorn(Green) because it is a pure python http server with wsgi app it allows run py concurrently
